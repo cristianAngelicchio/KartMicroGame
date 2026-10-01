@@ -1,0 +1,202 @@
+[
+  {
+    "file": "GLB\\01_Awning_Stall.glb",
+    "triangles": 2244,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\02_Display_Table.glb",
+    "triangles": 616,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\03_Plant_Shelf.glb",
+    "triangles": 308,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\04_Garden_Bench.glb",
+    "triangles": 792,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\05_Picket_Fence.glb",
+    "triangles": 452,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\06_Sprout_Sign.glb",
+    "triangles": 332,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\07_Terracotta_Pot.glb",
+    "triangles": 328,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\08_Herb_Pot.glb",
+    "triangles": 648,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\09_Flower_Pot.glb",
+    "triangles": 820,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\10_Empty_Crate.glb",
+    "triangles": 748,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\11_Apple_Crate.glb",
+    "triangles": 1132,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\12_Watering_Can.glb",
+    "triangles": 516,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\13_Shovel.glb",
+    "triangles": 280,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\14_Rake.glb",
+    "triangles": 284,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\15_Wheelbarrow.glb",
+    "triangles": 484,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\16_Herb_Planter.glb",
+    "triangles": 264,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\17_Round_Stool.glb",
+    "triangles": 176,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\18_Wood_Barrel.glb",
+    "triangles": 472,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\19_Seedling_Tray.glb",
+    "triangles": 3932,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "GLB\\20_Garden_Lantern.glb",
+    "triangles": 468,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\01_Awning_Stall.fbx",
+    "triangles": 2244,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\02_Display_Table.fbx",
+    "triangles": 616,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\03_Plant_Shelf.fbx",
+    "triangles": 308,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\04_Garden_Bench.fbx",
+    "triangles": 792,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\05_Picket_Fence.fbx",
+    "triangles": 452,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\06_Sprout_Sign.fbx",
+    "triangles": 332,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\07_Terracotta_Pot.fbx",
+    "triangles": 328,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\08_Herb_Pot.fbx",
+    "triangles": 648,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\09_Flower_Pot.fbx",
+    "triangles": 820,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\10_Empty_Crate.fbx",
+    "triangles": 748,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\11_Apple_Crate.fbx",
+    "triangles": 1132,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\12_Watering_Can.fbx",
+    "triangles": 516,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\13_Shovel.fbx",
+    "triangles": 280,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\14_Rake.fbx",
+    "triangles": 284,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\15_Wheelbarrow.fbx",
+    "triangles": 484,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\16_Herb_Planter.fbx",
+    "triangles": 264,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\17_Round_Stool.fbx",
+    "triangles": 176,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\18_Wood_Barrel.fbx",
+    "triangles": 472,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\19_Seedling_Tray.fbx",
+    "triangles": 3932,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  },
+  {
+    "file": "FBX\\20_Garden_Lantern.fbx",
+    "triangles": 468,
+    "result": "PASS: reimport, triangle count, finite coordinates, nonzero faces"
+  }
+]

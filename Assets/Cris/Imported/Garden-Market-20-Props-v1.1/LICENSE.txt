@@ -1,0 +1,11 @@
+GARDEN MARKET - COMMERCIAL ASSET LICENSE v1.0
+Seller: Shapita (https://shapita.itch.io)
+
+You may use and modify the included models in any number of personal or commercial games, applications, renders, videos and other finished creative projects. Attribution is appreciated but not required. This license is non-exclusive and worldwide.
+You may share source assets with collaborators only as needed for your joint project; they may not reuse them independently without their own license.
+You may not sell, redistribute, sublicense or give away the source models or modified models as standalone assets, asset packs, templates or downloadable libraries. Do not claim exclusive ownership of the original pack. Finished projects must not offer the source assets for extraction or reuse as a product feature.
+The same permissions apply to the three-model free sample. The license covers the files supplied by this seller; no promise of exclusive copyright or engine certification is made. AI assistance is disclosed in the README.
+Assets are supplied as-is, without a promise of fitness for a particular engine or workflow, to the extent permitted by law. Statutory consumer rights are unaffected. No physical-print suitability is claimed.
+
+RESUMEN EN ESPANOL
+Puedes usar y modificar los modelos en proyectos personales y comerciales, sin limite de proyectos y sin atribucion obligatoria. Puedes compartirlos con colaboradores solo para trabajar en el mismo proyecto. No puedes redistribuir ni revender los archivos fuente o sus modificaciones como recursos independientes, packs o bibliotecas. La muestra gratuita tiene estos mismos permisos. Se entregan tal cual; se mantienen los derechos legales del consumidor. El texto en ingles define la licencia completa.

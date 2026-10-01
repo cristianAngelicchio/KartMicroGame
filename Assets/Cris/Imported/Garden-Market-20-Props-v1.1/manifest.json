@@ -1,0 +1,202 @@
+[
+  {
+    "name": "01_Awning_Stall",
+    "triangles": 2244,
+    "vertices": 1128,
+    "dimensions_m": [
+      1.925,
+      1.166,
+      2.525
+    ]
+  },
+  {
+    "name": "02_Display_Table",
+    "triangles": 616,
+    "vertices": 240,
+    "dimensions_m": [
+      1.288,
+      0.65,
+      0.815
+    ]
+  },
+  {
+    "name": "03_Plant_Shelf",
+    "triangles": 308,
+    "vertices": 168,
+    "dimensions_m": [
+      1.2,
+      0.4,
+      1.44
+    ]
+  },
+  {
+    "name": "04_Garden_Bench",
+    "triangles": 792,
+    "vertices": 336,
+    "dimensions_m": [
+      1.32,
+      0.4425,
+      1.06
+    ]
+  },
+  {
+    "name": "05_Picket_Fence",
+    "triangles": 452,
+    "vertices": 250,
+    "dimensions_m": [
+      1.55,
+      0.153,
+      1.05
+    ]
+  },
+  {
+    "name": "06_Sprout_Sign",
+    "triangles": 332,
+    "vertices": 184,
+    "dimensions_m": [
+      0.55,
+      0.626,
+      0.852
+    ]
+  },
+  {
+    "name": "07_Terracotta_Pot",
+    "triangles": 328,
+    "vertices": 168,
+    "dimensions_m": [
+      0.496,
+      0.496,
+      0.416
+    ]
+  },
+  {
+    "name": "08_Herb_Pot",
+    "triangles": 648,
+    "vertices": 348,
+    "dimensions_m": [
+      0.57,
+      0.496,
+      0.93
+    ]
+  },
+  {
+    "name": "09_Flower_Pot",
+    "triangles": 820,
+    "vertices": 456,
+    "dimensions_m": [
+      0.436,
+      0.436,
+      0.781
+    ]
+  },
+  {
+    "name": "10_Empty_Crate",
+    "triangles": 748,
+    "vertices": 408,
+    "dimensions_m": [
+      0.665,
+      0.505,
+      0.35
+    ]
+  },
+  {
+    "name": "11_Apple_Crate",
+    "triangles": 1132,
+    "vertices": 624,
+    "dimensions_m": [
+      0.665,
+      0.505,
+      0.462
+    ]
+  },
+  {
+    "name": "12_Watering_Can",
+    "triangles": 516,
+    "vertices": 264,
+    "dimensions_m": [
+      0.974,
+      0.38,
+      0.464
+    ]
+  },
+  {
+    "name": "13_Shovel",
+    "triangles": 280,
+    "vertices": 144,
+    "dimensions_m": [
+      0.23,
+      0.055,
+      1.282
+    ]
+  },
+  {
+    "name": "14_Rake",
+    "triangles": 284,
+    "vertices": 160,
+    "dimensions_m": [
+      0.43,
+      0.148,
+      1.173
+    ]
+  },
+  {
+    "name": "15_Wheelbarrow",
+    "triangles": 484,
+    "vertices": 264,
+    "dimensions_m": [
+      0.605,
+      1.29,
+      0.758
+    ]
+  },
+  {
+    "name": "16_Herb_Planter",
+    "triangles": 264,
+    "vertices": 148,
+    "dimensions_m": [
+      0.95,
+      0.36,
+      0.81
+    ]
+  },
+  {
+    "name": "17_Round_Stool",
+    "triangles": 176,
+    "vertices": 96,
+    "dimensions_m": [
+      0.48,
+      0.48,
+      0.463
+    ]
+  },
+  {
+    "name": "18_Wood_Barrel",
+    "triangles": 472,
+    "vertices": 240,
+    "dimensions_m": [
+      0.636,
+      0.636,
+      0.623
+    ]
+  },
+  {
+    "name": "19_Seedling_Tray",
+    "triangles": 3932,
+    "vertices": 2112,
+    "dimensions_m": [
+      0.6,
+      0.4,
+      0.331
+    ]
+  },
+  {
+    "name": "20_Garden_Lantern",
+    "triangles": 468,
+    "vertices": 248,
+    "dimensions_m": [
+      0.36,
+      0.36,
+      0.617
+    ]
+  }
+]
